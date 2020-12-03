@@ -4,11 +4,10 @@ blah blah blah
 
 Hello world loh
 
-<<<<<<< HEAD
-HEHEHEHaswda
-
-=======
-HEHEHEHaswdaasd
+HEHEHEHaswdaasd hahah
 
 Helo meosdnoa
->>>>>>> 41d0d80a317d3bd1bf00a2158e84e2fbb8f11562
+
+#This is for branch
+
+1. Working on a branch is tiring
